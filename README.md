@@ -1,4 +1,4 @@
-# Pokedex with React 
+# Pokedex with React and Pokeapi
 
 ## Membres 
 - Antonerrie STD24207
@@ -16,6 +16,6 @@
 
 ## Instalaltion dans le terminal
 - git clone https://github.com/MiantsaNomena/pokedex.git
-- cd .\pokedex\
--  npm install
--  npm run dev
+- cd pokedex
+- npm install
+- npm run dev
