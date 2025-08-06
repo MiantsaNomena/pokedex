@@ -1,5 +1,11 @@
 # Pokedex with React 
 
+## Membres 
+- Antonerrie STD24207
+- Miantsa STD24215
+- Telina STD24225
+- Ben STD24198
+
 ## Fonctionnalités
 
 - Recherche d'un Pokémon par nom
@@ -8,7 +14,7 @@
 - Chargement dynamique via API
 - Interface responsive
 
-## Instalation dans le terminal
+## Instalaltion dans le terminal
 - git clone https://github.com/MiantsaNomena/pokedex.git
 - cd .\pokedex\
 -  npm install
