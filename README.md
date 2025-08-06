@@ -7,3 +7,9 @@
 - Informations détaillées : nom, types, taille, poids, statistiques
 - Chargement dynamique via API
 - Interface responsive
+
+## Instalation dans le terminal
+- git clone https://github.com/MiantsaNomena/pokedex.git
+- cd .\pokedex\
+-  npm install
+-  npm run dev
